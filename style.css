@@ -15,5 +15,5 @@ main {
 footer {
     background-color: #FFB81C;
     text-align: center;
-    font-family: 'Papyrus','fantasy';
+    font-family: 'Papyrus','fantasy', 'Arial';
 }
