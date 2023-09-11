@@ -5,3 +5,13 @@ h1 {
 header {
     background-color: #FFB81C;
 }
+
+main {
+    background-color: #003594;
+    color: #FFFFFF;
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+
+footer {
+    background-color: #FFB81C;
+}
