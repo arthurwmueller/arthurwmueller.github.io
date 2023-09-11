@@ -9,9 +9,11 @@ header {
 main {
     background-color: #003594;
     color: #FFFFFF;
-    font-family: "Comic Sans MS", "Comic Sans";
+    font-family: "Comic Sans MS", "Comic Sans", 'fantasy';
 }
 
 footer {
     background-color: #FFB81C;
+    text-align: center;
+    font-family: 'Papyrus','fantasy';
 }
